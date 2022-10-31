@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/889953525122093080/1036622868064247909/M4GWaker_1.png">
+<img src="https://cdn.discordapp.com/attachments/889953525122093080/1036625260373626900/M4GWaker_2.png">
 
 <h2 align='left'>Hi, I'm M4GWaker<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 <p align='left'>I'm FullStack Web Developer & python developer</p>
