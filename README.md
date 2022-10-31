@@ -4,7 +4,7 @@
 <p align='left'>I'm FullStack Web Developer & python developer</p>
 
 <h2 align="left">⚙️ Contact me on :</h2>
-<a href="https://t.me/levraiwaker" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1200px-Telegram_2019_Logo.svg.png" alt="M4GWaker#0001" height="30" width="30" /></a>
+<p>You can contact me on my <a href="https://t.me/levraiwaker" target="blank">Telegram</a></p>
 
 <h2 align="left">📈 My stats :</h2>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=WakerFR&show_icons=true&theme=radical">
