@@ -1,6 +1,7 @@
 <img src="https://cdn.discordapp.com/attachments/889953525122093080/1036622868064247909/M4GWaker_1.png">
 
 <h2 align='left'>Hi, I'm M4GWaker<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
+<hr>
 <p align='left'>I'm FullStack Web Developer & python developer</p>
 
 <h3 align="left">⚙️ Contact me on :</h3>
