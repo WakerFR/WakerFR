@@ -1,21 +1,27 @@
-<h2>Hi, I'm M4GWaker <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
-<p>I'm a FullStack Web Developer & Python Developer.</p>
+# 👨‍💻 M4GWaker  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<h2>📈 My GitHub Stats:</h2>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=WakerFR&show_icons=true&theme=radical" alt="GitHub Stats">
-</p>
+**Full-Stack Web Developer & Python Enthusiast**  
 
-<h2>🔧 Technologies & Tools:</h2>
-<p>
-  <img src="https://img.shields.io/badge/OS-Ubuntu-orange" alt="Ubuntu">
-  <img src="https://img.shields.io/badge/Code-Python-blue" alt="Python">
-  <img src="https://img.shields.io/badge/Code-JavaScript-yellow" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Tools-Git-green" alt="Git">
-</p>
+I craft seamless web experiences and architect robust backend solutions with Python.
 
-<h2>🌐 Connect with Me:</h2>
-<p>
-  <a href="https://github.com/WakerFR"><img src="https://img.shields.io/badge/GitHub-Profile-green" alt="GitHub"></a>
-  <a href="https://t.me/LeVraiWaker"><img src="https://img.shields.io/badge/Telegram-Contact-blue" alt="Telegram"></a>
-</p>
+---
+
+**🚀 GitHub Highlights**  
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WakerFR&show_icons=true&theme=radical)](https://github.com/WakerFR)  
+
+EN COURS
+
+**🛠️ Tech Stack & Tools**  
+
+[![Ubuntu](https://img.shields.io/badge/OS-Ubuntu-orange)](https://ubuntu.com/) [![Python](https://img.shields.io/badge/Code-Python-blue)](https://www.python.org/) [![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow)](https://www.javascript.com/) [![Git](https://img.shields.io/badge/Tools-Git-green)](https://git-scm.com/)  
+
+I'm proficient in both front-end and back-end technologies, utilizing the latest tools and frameworks to deliver high-quality solutions.
+
+---
+
+**🤝 Let's Connect**  
+
+[![GitHub Profile](https://img.shields.io/badge/GitHub-Profile-green)](https://github.com/WakerFR) [![Telegram Contact](https://img.shields.io/badge/Telegram-Contact-blue)](https://t.me/LeVraiWaker)  
+
+Feel free to explore my GitHub projects, and don't hesitate to reach out if you'd like to collaborate or just chat about tech!
